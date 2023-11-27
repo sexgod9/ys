@@ -387,9 +387,9 @@
   ],
   "lives": [
   {
-            "name": "小勇哥电视",
+            "name": "一念地狱",
             "type": 0,
-            "url": "https://download.kstore.space/download/5262/ys/z18.txt",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sexgod9/ys/main/z18.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
