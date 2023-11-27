@@ -403,7 +403,7 @@
                         {
             "name": "小小TV直播",
             "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
@@ -433,7 +433,7 @@
         {
             "name": "BESTV",
             "type": 0,
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
@@ -461,14 +461,14 @@
         {
             "name": "玩偶姐姐全套",
             "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u",
             "epg": "http://epg.hklive.tv",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "蜂蜜18+",
             "type": 0,
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
@@ -493,7 +493,7 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
-        {"type":0,"pass": true,"name":"影子TV","url":"https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/影子TV.txt","logo":"http://epg.51zmt.top:8000/{logo}","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","playerType":1},
+        {"type":0,"pass": true,"name":"影子TV","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/影子TV.txt","logo":"http://epg.51zmt.top:8000/{logo}","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","playerType":1},
         {
             "name": "四k数毛TV",
             "type": 0,
@@ -515,7 +515,7 @@
         {
             "name": "YouTube",
             "type": 0,
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
@@ -536,7 +536,7 @@
         {
       "name": "┃龙龙🐉┃直播┃wudi┃",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/v.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/v.txt",
       "epg": ""
     },
     {
@@ -557,7 +557,7 @@
     {
       "name": "┃龙龙🐉┃直播XIAOHU┃",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/XIAOHU.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/XIAOHU.txt",
       "epg": ""
     }
       ],
