@@ -387,9 +387,37 @@
   ],
   "lives": [
   {
-            "name": "一念地狱",
+            "name": "成人仓库1",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sexgod9/ys/main/z18.txt",
+            "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+  {
+            "name": "猫盒电视",
+            "type": 0,
+            "url": "https://files.catbox.moe/fataoz.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+  {
+            "name": "小勇哥电视",
+            "type": 0,
+            "url": "https://download.kstore.space/download/5262/ys/z18.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "成人仓库2",
+            "type": 0,
+            "url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "成人仓库3",
+            "type": 0,
+            "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+千部独家传媒无水印来袭tvlist.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
